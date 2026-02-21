@@ -55,7 +55,3 @@ If your GitHub client supports inline HTML video, this player also works:
 - Fixed white balance
 - Constant aperture and ISO
 - Disable auto lighting optimizations
-
-## On-Camera Reference Photo
-
-Mounted setup image is shown in the Assembly section above.
