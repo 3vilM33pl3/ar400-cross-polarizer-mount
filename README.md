@@ -59,10 +59,3 @@ If your GitHub client supports inline HTML video, this player also works:
 ## On-Camera Reference Photo
 
 Mounted setup image is shown in the Assembly section above.
-
-## Attribution
-
-Original design source:
-- https://github.com/3vilM33pl3/3DPrinting/tree/main/Godox%20AR400%20Polarizer%20Mount
-
-This repository intentionally keeps **Version 3** assets and excludes Version 2.
