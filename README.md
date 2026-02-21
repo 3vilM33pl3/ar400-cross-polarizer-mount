@@ -11,6 +11,7 @@ When the flash polarization and lens polarization are crossed (90 degrees), surf
 ## Assembly Video
 
 ![Assembly preview](docs/assembly-preview.gif)
+![Mounted on camera](docs/on-camera-example.jpg)
 
 Direct video link: [assembly.mp4](media/assembly.mp4)
 
@@ -55,16 +56,9 @@ If your GitHub client supports inline HTML video, this player also works:
 - Constant aperture and ISO
 - Disable auto lighting optimizations
 
-## Optional: On-Camera Reference Photo
+## On-Camera Reference Photo
 
-If you want, add your final mounted example photo as:
-- `docs/on-camera-example.jpg`
-
-Then add this line under the Assembly section:
-
-```md
-![Mounted on camera](docs/on-camera-example.jpg)
-```
+Mounted setup image is shown in the Assembly section above.
 
 ## Attribution
 
