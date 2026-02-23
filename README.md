@@ -1,3 +1,6 @@
+<!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
+<!-- Copyright (c) 2026 Olivier Van Acker -->
+
 # Godox AR400 Cross-Polarizer Mount (Version 3)
 
 Repository for a 3D-printed polarizer holder for the **Godox AR400** ring flash.
@@ -55,3 +58,8 @@ If your GitHub client supports inline HTML video, this player also works:
 - Fixed white balance
 - Constant aperture and ISO
 - Disable auto lighting optimizations
+
+## License
+
+This project is licensed under the **CERN Open Hardware Licence Version 2 - Permissive** (`CERN-OHL-P-2.0`).
+See [`LICENSE`](LICENSE) for the full license text.
