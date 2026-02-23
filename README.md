@@ -1,12 +1,12 @@
 # Godox AR400 Cross-Polarizer Mount (Version 3)
 
-A clean, standalone repository for a 3D-printed polarizer holder for the **Godox AR400** ring flash.
+Repository for a 3D-printed polarizer holder for the **Godox AR400** ring flash.
 
 Use this with:
 - A linear polarizing film/filter on the AR400 holder
 - A circular polarizer on your camera lens
 
-When the flash polarization and lens polarization are crossed (90 degrees), surface reflections are heavily reduced, which is useful for photogrammetry capture.
+When the flash polarization and lens polarization are crossed (90 degrees), surface reflections are heavily reduced, useful for things like photogrammetry.
 
 ## Assembly Video
 
