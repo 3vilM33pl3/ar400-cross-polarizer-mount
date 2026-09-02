@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: CERN-OHL-P-2.0 -->
 <!-- Copyright (c) 2026 Olivier Van Acker -->
 
-# Godox AR400 Cross-Polarizer Mount (Version 3)
+# Godox AR400 Cross-Polarizer Mount
 
 Repository for a 3D-printed polarizer holder for the **Godox AR400** ring flash.
 
@@ -25,13 +25,13 @@ If your GitHub client supports inline HTML video, this player also works:
 ## What Is Included
 
 - `blender/Godox_Flash_Polarizer.blend`: Editable source model
-- `prints/version3/*.stl`: Printable meshes
-- `prints/version3/*.3mf`: Slicer-ready project files
-- `prints/version3/printer-gcode/*.gcode`: Example Prusa MK3S gcode from source
+- `prints/*.stl`: Printable meshes
+- `prints/*.3mf`: Slicer-ready project files
+- `prints/printer-gcode/*.gcode`: Example Prusa MK3S gcode from source
 - `media/assembly.mp4`: Combined short assembly clip
 - `docs/assembly-preview.gif`: Embedded motion preview for README
 
-## Parts (Version 3)
+## Parts
 
 - `Godox_Flash_Polarizer_Tube`
 - `Godox_Flash_Polarizer_Outer_Loop`
